@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Store/etc/config.xsd">
+	<default>
+            <CurrencyUpdater>
+                <model>Gnezdilov\CurrencyUpdater\Model\CurrencyModel</model>
+                <active>1</active>
+                <title>Gnezdilov CurrencyUpdater</title>
+            </CurrencyUpdater>
+    </default>	
+</config>
+
